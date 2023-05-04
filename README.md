@@ -18,16 +18,17 @@ You will need to obtain an API key from OpenWeatherMap to use this app.
 
 Install the following packages in the CMD
 
-pip install Django
+"pip install Django"
 
-pip freeze>requirements.txt (which will create a list of tools required for the project)
+"pip freeze>requirements.txt" (which will create a list of tools required for the project)
 
-pip install -r requirements.txt (which will install all the necessary tools)
+"pip install -r requirements.txt"(which will install all the necessary tools)
 
-python manage.py mitigate
+"python manage.py mitigate"
 
 If no errors appeared then the installation is done correctly.Then,run 
-python manage.py runserver (which will start the server and allow you to test the application)
+
+"python manage.py runserver "(which will start the server and allow you to test the application)
 
 ## **Usage**
 
