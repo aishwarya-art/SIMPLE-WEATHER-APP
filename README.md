@@ -1,4 +1,4 @@
-Simple Weather App
+Weather App using OpenWeatherMap API
 
 This is a simple weather app that displays the current weather conditions for a specified location.
 Django framework(python) was used for backend and javascript for frontend.
